@@ -1,0 +1,28 @@
+/****** id cuma bisa 1 kata doang******/
+#hea {
+    color: #F5EA5A;
+}
+body {
+    background-color: #39B5E0;
+}
+img:hover {
+    height: 274px; width: 242px;
+}
+.p1 {
+    font-family: sans-serif;
+}
+.p2 {
+    font-family: tahoma;
+}
+.p3 {
+    font-family: cursive;
+}
+.gmbr1 {
+    height: 137px; width: 121px;
+}
+.gmbr2 {
+    height: 137px; width: 121px;
+}
+.bulet {
+    border-radius: 10%;
+}
